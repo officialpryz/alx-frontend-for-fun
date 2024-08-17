@@ -2,6 +2,7 @@
 """Markdown to HTML"""
 
 import sys
+
 import os.path
 import re
 import hashlib
